@@ -1,0 +1,62 @@
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\CLINew.exe
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\CLINew.deps.json
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\CLINew.runtimeconfig.json
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\CLINew.dll
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\CLINew.pdb
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\System.CommandLine.dll
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\cs\System.CommandLine.resources.dll
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\de\System.CommandLine.resources.dll
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\es\System.CommandLine.resources.dll
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\fr\System.CommandLine.resources.dll
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\it\System.CommandLine.resources.dll
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\ja\System.CommandLine.resources.dll
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\ko\System.CommandLine.resources.dll
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\pl\System.CommandLine.resources.dll
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\ru\System.CommandLine.resources.dll
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\tr\System.CommandLine.resources.dll
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\User\source\repos\CLINew\CLINew\bin\Release\net8.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\User\source\repos\CLINew\CLINew\obj\Release\net8.0\CLINew.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CLINew\CLINew\obj\Release\net8.0\CLINew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CLINew\CLINew\obj\Release\net8.0\CLINew.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CLINew\CLINew\obj\Release\net8.0\CLINew.AssemblyInfo.cs
+C:\Users\User\source\repos\CLINew\CLINew\obj\Release\net8.0\CLINew.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CLINew\CLINew\obj\Release\net8.0\CLINew.sourcelink.json
+C:\Users\User\source\repos\CLINew\CLINew\obj\Release\net8.0\CLINew.csproj.CopyComplete
+C:\Users\User\source\repos\CLINew\CLINew\obj\Release\net8.0\CLINew.dll
+C:\Users\User\source\repos\CLINew\CLINew\obj\Release\net8.0\refint\CLINew.dll
+C:\Users\User\source\repos\CLINew\CLINew\obj\Release\net8.0\CLINew.pdb
+C:\Users\User\source\repos\CLINew\CLINew\obj\Release\net8.0\CLINew.genruntimeconfig.cache
+C:\Users\User\source\repos\CLINew\CLINew\obj\Release\net8.0\ref\CLINew.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\CLINew.exe
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\CLINew.deps.json
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\CLINew.runtimeconfig.json
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\CLINew.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\CLINew.pdb
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\System.CommandLine.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\cs\System.CommandLine.resources.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\de\System.CommandLine.resources.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\es\System.CommandLine.resources.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\fr\System.CommandLine.resources.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\it\System.CommandLine.resources.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\ja\System.CommandLine.resources.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\ko\System.CommandLine.resources.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\pl\System.CommandLine.resources.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\ru\System.CommandLine.resources.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\tr\System.CommandLine.resources.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\bin\Release\net8.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\obj\Release\net8.0\CLINew.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\obj\Release\net8.0\CLINew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\obj\Release\net8.0\CLINew.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\obj\Release\net8.0\CLINew.AssemblyInfo.cs
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\obj\Release\net8.0\CLINew.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\obj\Release\net8.0\CLINew.sourcelink.json
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\obj\Release\net8.0\CLINew.csproj.CopyComplete
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\obj\Release\net8.0\CLINew.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\obj\Release\net8.0\refint\CLINew.dll
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\obj\Release\net8.0\CLINew.pdb
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\obj\Release\net8.0\CLINew.genruntimeconfig.cache
+C:\Users\User\Desktop\תקיות\לימודי תכנות\'שנה ב\פרקטיקוד\CLINew\CLINew\obj\Release\net8.0\ref\CLINew.dll
